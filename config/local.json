@@ -1,0 +1,6 @@
+{
+    "host": "localhost",
+    "port": 8081,
+    "DATABASE_URL": "postgres://todo:1234@localhost:5432/todo_db",
+    "systems": ["todos"]
+}
